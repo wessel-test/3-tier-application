@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Basic3Tier.Core.Tests
-build_property.ProjectDir = /Users/saurabhdhingra/sample-apps-docker/capstone-project/api/Tests/Basic3Tier.Core.Tests/
+build_property.ProjectDir = /Users/saurabhdhingra/3-tier-application/api/Tests/Basic3Tier.Core.Tests/
