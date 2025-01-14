@@ -23,7 +23,7 @@ jobs:
 
       - name: Build and push backend image
         run: |
-          docker build -t guiwessel/backend ./api/
+          docker build -t guiwessel/backend ./
           docker push guiwessel/backend
 
       - name: Build and push frontend image
